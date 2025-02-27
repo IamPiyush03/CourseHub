@@ -3,7 +3,8 @@
 A React application for showcasing courses, allowing users to browse, search, and enroll in courses, and track their progress through a student dashboard.
 
 ## 🚀 Live Demo
-Check out the live demo: [CourseHub](#https://course-hub.vercel.app/)
+Check out the live demo: [CourseHub](https://course-hub.vercel.app/)
+
 
 ## 📋 Features
 
