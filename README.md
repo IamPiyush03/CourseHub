@@ -5,7 +5,7 @@ A React application for showcasing courses, allowing users to browse, search, an
 ## 🚀 Live Demo
 Check out the live demo: [CourseHub](https://course-hub.vercel.app/)
 
-## 🎥 Demo Video
+## 🎥 Demo Preview  
 ![CourseHub Demo](assets/demo.gif)
 
 ## 📋 Features
